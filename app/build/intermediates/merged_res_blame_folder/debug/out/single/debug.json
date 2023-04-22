@@ -1,0 +1,218 @@
+[
+    {
+        "merged": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-merged_res-42:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-debug-43:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-merged_res-42:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-pngs-37:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-merged_res-42:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-main-44:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-merged_res-42:\\drawable-xxxhdpi_placeholder_wolverine_image.jpg.flat",
+        "source": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-main-44:\\drawable-xxxhdpi\\placeholder_wolverine_image.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-merged_res-42:\\drawable_ic_baseline_chevron_left_white_24dp.xml.flat",
+        "source": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-main-44:\\drawable\\ic_baseline_chevron_left_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-merged_res-42:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-debug-43:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-merged_res-42:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-debug-43:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-merged_res-42:\\drawable_background_rate_movie.xml.flat",
+        "source": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-main-44:\\drawable\\background_rate_movie.xml"
+    },
+    {
+        "merged": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-merged_res-42:\\drawable_ic_baseline_favorite_border_white_24dp.xml.flat",
+        "source": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-main-44:\\drawable\\ic_baseline_favorite_border_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-merged_res-42:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-debug-43:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-merged_res-42:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-debug-43:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-merged_res-42:\\layout_view_pod_movie_list.xml.flat",
+        "source": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-main-44:\\layout\\view_pod_movie_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-merged_res-42:\\drawable_ic_baseline_play_circle_filled_white_24dp.xml.flat",
+        "source": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-main-44:\\drawable\\ic_baseline_play_circle_filled_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-merged_res-42:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-debug-43:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-merged_res-42:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-debug-43:\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-merged_res-42:\\drawable_gradient_actor.xml.flat",
+        "source": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-main-44:\\drawable\\gradient_actor.xml"
+    },
+    {
+        "merged": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-merged_res-42:\\drawable_ic_baseline_access_time_white_24dp.xml.flat",
+        "source": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-main-44:\\drawable\\ic_baseline_access_time_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-merged_res-42:\\drawable_background_play_trailer.xml.flat",
+        "source": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-main-44:\\drawable\\background_play_trailer.xml"
+    },
+    {
+        "merged": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-merged_res-42:\\layout_view_pod_actor_list.xml.flat",
+        "source": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-main-44:\\layout\\view_pod_actor_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-merged_res-42:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-main-44:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-merged_res-42:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-debug-43:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-merged_res-42:\\drawable_ic_baseline_star_white_24dp.xml.flat",
+        "source": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-main-44:\\drawable\\ic_baseline_star_white_24dp.xml"
+    },
+    {
+        "merged": "com.flexath.themovieapp-merged_res-42:/layout_activity_main.xml.flat",
+        "source": "com.flexath.themovieapp-main-44:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-merged_res-42:\\drawable-xxxhdpi_ic_menu.png.flat",
+        "source": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-main-44:\\drawable-xxxhdpi\\ic_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-merged_res-42:\\drawable_background_back_button.xml.flat",
+        "source": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-main-44:\\drawable\\background_back_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-merged_res-42:\\drawable_background_release_year.xml.flat",
+        "source": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-main-44:\\drawable\\background_release_year.xml"
+    },
+    {
+        "merged": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-merged_res-42:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-debug-43:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "com.flexath.themovieapp-merged_res-42:/layout_activity_movie_details.xml.flat",
+        "source": "com.flexath.themovieapp-main-44:/layout/activity_movie_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-merged_res-42:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-debug-43:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-merged_res-42:\\drawable_gradient_banner.xml.flat",
+        "source": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-main-44:\\drawable\\gradient_banner.xml"
+    },
+    {
+        "merged": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-merged_res-42:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-debug-43:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-merged_res-42:\\layout_view_holder_best_actor.xml.flat",
+        "source": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-main-44:\\layout\\view_holder_best_actor.xml"
+    },
+    {
+        "merged": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-merged_res-42:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-debug-43:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-merged_res-42:\\layout_view_holder_showcase.xml.flat",
+        "source": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-main-44:\\layout\\view_holder_showcase.xml"
+    },
+    {
+        "merged": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-merged_res-42:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-main-44:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-merged_res-42:\\layout_view_holder_movie.xml.flat",
+        "source": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-main-44:\\layout\\view_holder_movie.xml"
+    },
+    {
+        "merged": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-merged_res-42:\\drawable-xxxhdpi_placeholder_actor.jpg.flat",
+        "source": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-main-44:\\drawable-xxxhdpi\\placeholder_actor.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-merged_res-42:\\layout_activity_movie_search.xml.flat",
+        "source": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-main-44:\\layout\\activity_movie_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-merged_res-42:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-main-44:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-merged_res-42:\\layout_view_item_banner.xml.flat",
+        "source": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-main-44:\\layout\\view_item_banner.xml"
+    },
+    {
+        "merged": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-merged_res-42:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-debug-43:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-merged_res-42:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-debug-43:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-merged_res-42:\\layout_activity_movie_details.xml.flat",
+        "source": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-main-44:\\layout\\activity_movie_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-merged_res-42:\\drawable_ic_baseline_thumb_up_white_24dp.xml.flat",
+        "source": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-main-44:\\drawable\\ic_baseline_thumb_up_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-merged_res-42:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-debug-43:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-merged_res-42:\\menu_menu_discover.xml.flat",
+        "source": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-main-44:\\menu\\menu_discover.xml"
+    },
+    {
+        "merged": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-merged_res-42:\\drawable_background_genre_chip.xml.flat",
+        "source": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-main-44:\\drawable\\background_genre_chip.xml"
+    },
+    {
+        "merged": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-merged_res-42:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-debug-43:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-merged_res-42:\\drawable_ic_baseline_play_arrow_black_24dp.xml.flat",
+        "source": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-main-44:\\drawable\\ic_baseline_play_arrow_black_24dp.xml"
+    },
+    {
+        "merged": "com.flexath.themovieapp-merged_res-42:/layout_activity_movie_search.xml.flat",
+        "source": "com.flexath.themovieapp-main-44:/layout/activity_movie_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-merged_res-42:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-debug-43:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-merged_res-42:\\drawable-xxxhdpi_ic_search.png.flat",
+        "source": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-main-44:\\drawable-xxxhdpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-merged_res-42:\\drawable_ic_baseline_favorite_white_24dp.xml.flat",
+        "source": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-main-44:\\drawable\\ic_baseline_favorite_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-merged_res-42:\\drawable_ic_baseline_location_on_white_24dp.xml.flat",
+        "source": "C:\\Users\\yemin\\.gradle\\daemon\\7.4\\com.flexath.themovieapp-main-44:\\drawable\\ic_baseline_location_on_white_24dp.xml"
+    }
+]

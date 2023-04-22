@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="colorAccent">#e7b943</color>
+    <color name="colorPrimary">#1f2532</color>
+    <color name="colorPrimaryDark">#161c24</color>
+    <color name="colorPrimaryLight">#1f2a33</color>
+    <color name="colorSecondaryText">#535968</color>
+    <color name="colorTransparentOverlay">#1A000000</color>
+    <color name="colorTransparentOverlayPlayButton">#80000000</color>
+    <color name="ic_launcher_background">#FFFFFF</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="height_actor">180dp</dimen>
+    <dimen name="height_banner">250dp</dimen>
+    <dimen name="height_check_movie_show_time">180dp</dimen>
+    <dimen name="height_collapsing_toolbar_movie_details">300dp</dimen>
+    <dimen name="height_movie_image">180dp</dimen>
+    <dimen name="height_showcase">180dp</dimen>
+    <dimen name="margin_card_medium">6dp</dimen>
+    <dimen name="margin_card_medium_2">12dp</dimen>
+    <dimen name="margin_card_medium_2_n">12dp</dimen>
+    <dimen name="margin_card_medium_n">6dp</dimen>
+    <dimen name="margin_large">24dp</dimen>
+    <dimen name="margin_large_n">24dp</dimen>
+    <dimen name="margin_medium">8dp</dimen>
+    <dimen name="margin_medium_2">16dp</dimen>
+    <dimen name="margin_medium_2_n">16dp</dimen>
+    <dimen name="margin_medium_3">20dp</dimen>
+    <dimen name="margin_medium_3_n">18dp</dimen>
+    <dimen name="margin_medium_n">8dp</dimen>
+    <dimen name="margin_small">4dp</dimen>
+    <dimen name="margin_small_n">4dp</dimen>
+    <dimen name="margin_xlarge">32dp</dimen>
+    <dimen name="margin_xlarge_n">32dp</dimen>
+    <dimen name="margin_xxlarge">48dp</dimen>
+    <dimen name="text_big">40sp</dimen>
+    <dimen name="text_big_2x">60sp</dimen>
+    <dimen name="text_big_3x">80sp</dimen>
+    <dimen name="text_heading_1x">24sp</dimen>
+    <dimen name="text_heading_2x">32sp</dimen>
+    <dimen name="text_regular">14sp</dimen>
+    <dimen name="text_regular_2x">16sp</dimen>
+    <dimen name="text_regular_3x">20sp</dimen>
+    <dimen name="text_small">12sp</dimen>
+    <dimen name="text_smaller">10sp</dimen>
+    <dimen name="width_actor">150dp</dimen>
+    <dimen name="width_movie_item">128dp</dimen>
+    <dimen name="width_release_year">72dp</dimen>
+    <dimen name="width_showcase">260dp</dimen>
+    <string name="app_name">TheMovieApp</string>
+    <string name="lbl_about_film">ABOUT FILM</string>
+    <string name="lbl_actors">ACTORS</string>
+    <string name="lbl_best_actors">BEST ACTORS</string>
+    <string name="lbl_best_popular_films_and_serial">BEST POPULAR FILMS AND SERIAL</string>
+    <string name="lbl_check_movie_show_time">Check Movie\nShowtimes</string>
+    <string name="lbl_creators">CREATORS</string>
+    <string name="lbl_description">Description</string>
+    <string name="lbl_discover">Discover</string>
+    <string name="lbl_more_actors"><u>MORE ACTORS</u></string>
+    <string name="lbl_more_creators"><u>MORE CREATORS</u></string>
+    <string name="lbl_more_showcases"><u>MORE SHOWCASES</u></string>
+    <string name="lbl_original_title">Original Title: </string>
+    <string name="lbl_play_trailer">PLAY TRAILER</string>
+    <string name="lbl_premiere">Premiere:</string>
+    <string name="lbl_production">Production: </string>
+    <string name="lbl_rate_movie">RATE MOVIE</string>
+    <string name="lbl_search">Search</string>
+    <string name="lbl_see_more"><u>SEE MORE</u></string>
+    <string name="lbl_showcases">SHOWCASES</string>
+    <string name="lbl_storyline">STORYLINE</string>
+    <string name="lbl_type">Type:</string>
+    <string name="search_the_movies_hint">Please enter movie name</string>
+    <style name="Theme.TheMovieApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        
+        <item name="android:statusBarColor">@color/colorPrimaryDark</item>
+    </style>
+    <style name="Theme.TheMovieApp.TransparentStatusBar" parent="Theme.TheMovieApp">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:fitsSystemWindows">true</item>
+    </style>
+</resources>
